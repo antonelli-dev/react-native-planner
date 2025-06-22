@@ -4,7 +4,7 @@ import { SafeAreaView, StyleSheet, Text } from 'react-native';
 const App = () => {
   return (
     <SafeAreaView style={styles.container}>
-      <Text>Hello, Daily Planner!</Text>
+      <Text>Hello, Daily Planner! You are the best</Text>
     </SafeAreaView>
   );
 };
